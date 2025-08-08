@@ -16,7 +16,6 @@ Inspired by GridX Template.
 - Portfolio & blog cards
 - Contact form with form validation
 - Smooth scroll between sections
-- Dark & Light mode toggle (optional)
 
 ---
 
